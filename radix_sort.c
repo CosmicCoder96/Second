@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//Hello 
 int getmax(int a[],int n)
 {
 	int max;
